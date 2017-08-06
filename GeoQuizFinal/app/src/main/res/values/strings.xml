@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">GeoQuizFinal</string>
+
+
+    <string name="musicMuted">Music is muted!</string>
+    <string name="notMusicMuted">Music is on XD</string>
+
+    <string name="nickname_hint">Enter Your Nickname</string>
+    <string name="next_button">Next</string>
+    <string name="start_button">Start</string>
+    <string name="emptyNickname">Please enter a nickname!</string>
+
+    <string name="restart_button">Start A New Game</string>
+    <string name="screenshot_button">Take A Screenshot</string>
+
+
+
+
+    <string name="question1">1) Aşağıdakilerden hangisi aşağıdadır?</string>
+    <string name="question1answer1">Ben değilim!</string>
+    <string name="question1answer2">Ben de </string>
+    <string name="question1answer3">Ben hiç değilim</string>
+    <string name="question1answer4">pEKİ BEN aşağıdayım diyelim</string>
+    <integer name="question1answer">4</integer>
+
+    <string name="question2">2) 2+2 = ?</string>
+    <string name="question2answer1">2</string>
+    <string name="question2answer2">4</string>
+    <string name="question2answer3">6</string>
+    <string name="question2answer4">8</string>
+    <integer name="question2answer">2</integer>
+
+    <string name="question3">3) Which one of the following Platonic Solids have more corners compared to others?</string>
+    <string name="question3answer1">Dodecahedron</string>
+    <string name="question3answer2">Octahedron</string>
+    <string name="question3answer3">Cube</string>
+    <string name="question3answer4">Tetrahedron</string>
+    <integer name="question3answer">1</integer>
+
+    <string name="question4">4) What does "kicking the bucket" mean?</string>
+    <string name="question4answer1">To die</string>
+    <string name="question4answer2">To love</string>
+    <string name="question4answer3">To kill</string>
+    <string name="question4answer4">To fight</string>
+    <integer name="question4answer">1</integer>
+
+    <string name="question5">5) What does "RGB" commonly refer to?</string>
+    <string name="question5answer1">Animal Kingdom</string>
+    <string name="question5answer2">School</string>
+    <string name="question5answer3">Binary</string>
+    <string name="question5answer4">Red-Green-Blue</string>
+    <integer name="question5answer">4</integer>
+
+    <string name="question6">6) Who is the principal developer of the Linux kernel? </string>
+    <string name="question6answer1"> Elon Musk </string>
+    <string name="question6answer2"> Bill Gates </string>
+    <string name="question6answer3"> Linus Torvalds </string>
+    <string name="question6answer4"> Steve Jobs </string>
+    <integer name="question6answer"> 3 </integer>
+
+    <string name="question7">7) KK is a widely used internet expression. What does KK stand for? </string>
+    <string name="question7answer1"> Okay and Kewl </string>
+    <string name="question7answer2"> Koka and Kola </string>
+    <string name="question7answer3"> Koko and Jambo </string>
+    <string name="question7answer4"> Makara and Kukara </string>
+    <integer name="question7answer"> 1 </integer>
+
+    <string name="question8">8) What does the Norwegian word Kjotil mean? </string>
+    <string name="question8answer1"> Loser </string>
+    <string name="question8answer2"> Lame </string>
+    <string name="question8answer3"> Decent </string>
+    <string name="question8answer4"> Awesome </string>
+    <integer name="question8answer"> 4 </integer>
+
+    <string name="question9">9) What is the act of pooping in a bandana then slapping someone in the face with it? </string>
+    <string name="question9answer1">Dirty Pooch</string>
+    <string name="question9answer2">Daffy Dack</string>
+    <string name="question9answer3">Wombo Combo</string>
+    <string name="question9answer4">Hakuna Matata</string>
+    <integer name="question9answer">1</integer>
+
+    <string name="question10">10) Which one of the following albums contain the song Baba O Riley? </string>
+    <string name="question10answer1">Who is Who</string>
+    <string name="question10answer2">Who is Next</string>
+    <string name="question10answer3">The Who</string>
+    <string name="question10answer4">Allahuekber Woohoo</string>
+    <integer name="question10answer">2</integer>
+
+    <string name="question11">11) What color is Elmo? </string>
+    <string name="question11answer1">Blue</string>
+    <string name="question11answer2">Green</string>
+    <string name="question11answer3">Red</string>
+    <string name="question11answer4">Yellow</string>
+    <integer name="question11answer">3</integer>
+
+    <string name="question12">12) What is the number of Sesame Street? </string>
+    <string name="question12answer1">420</string>
+    <string name="question12answer2">128</string>
+    <string name="question12answer3">123</string>
+    <string name="question12answer4">666</string>
+    <integer name="question12answer">3</integer>
+
+    <string name="question13">13) What does ikr mean? </string>
+    <string name="question13answer1">I know, right?</string>
+    <string name="question13answer2">in Korea</string>
+    <string name="question13answer3">in krysis</string>
+    <string name="question13answer4">Ikariam</string>
+    <integer name="question13answer">1</integer>
+
+    <string name="question14">14) What is the French equivelant of LOL? </string>
+    <string name="question14answer1">Merde</string>
+    <string name="question14answer2">MDR</string>
+    <string name="question14answer3">Croissant</string>
+    <string name="question14answer4">LMAO</string>
+    <integer name="question14answer">2</integer>
+
+    <string name="question15">15) Which one of the following countries currently stands higher compared to others in Corruption Pereptions Index 2016 list? </string>
+    <string name="question15answer1">Israel</string>
+    <string name="question15answer2">Portugal</string>
+    <string name="question15answer3">Poland</string>
+    <string name="question15answer4">Bhutan</string>
+    <integer name="question15answer">4</integer>
+
+    <string name="question16">16) What does SS is commonly refer to? </string>
+    <string name="question16answer1">Schutzstaffel</string>
+    <string name="question16answer2">Soviet Union</string>
+    <string name="question16answer3">Sensu Stricto</string>
+    <string name="question16answer4">South Sudan</string>
+    <integer name="question16answer">1</integer>
+
+
+
+    <string name="already_answered">You already answered this question!</string>
+    <string name="no_going_back">You can not go back now!</string>
+    <string name="click_one_more">Click back again to exit!</string>
+    <string name="first_question_no_back">This is the first question.</string>
+    <string name="timeIsUp">Time is up !</string>
+
+    <string name="bravo">Bravo XD</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
